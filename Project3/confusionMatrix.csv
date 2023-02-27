@@ -1,0 +1,11 @@
+
+*,alert_key,candy,key,medicine,mice,pen,soda,speaker,tws,
+alert_key,1,1,0,0,0,0,0,0,0,
+candy,0,1,0,0,0,0,0,0,0,
+key,0,0,0,0,0,0,0,0,0,
+medicine,0,0,0,1,0,0,0,0,0,
+mice,1,0,0,0,2,0,0,0,0,
+pen,0,0,1,0,0,1,0,0,0,
+soda,0,0,1,1,0,1,2,0,0,
+speaker,0,0,0,0,0,0,0,1,0,
+tws,0,0,0,0,0,0,0,1,2,
